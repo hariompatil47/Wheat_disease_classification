@@ -1,0 +1,6 @@
+flask
+flask-ngrok
+Pillow
+numpy
+tensorflow
+matplotlib 
